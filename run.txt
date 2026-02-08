@@ -1,0 +1,3 @@
+$env:NASA_API_KEY = "ikg9Ra6R4K6HQbcZkUo3T9C8eDx36e3X3QcJprbQ"
+cd "C:\Users\SHUBHAM SARANGI\Desktop\dashboard-frontend"
+npm start
